@@ -53,7 +53,7 @@ Now, we can just guess `secret` and recieve the flag.
 
 We can obviously take the brute force approach and manually find the number but we are not losers. We'll write a script to do that for us.
 
-The script is pretty self-explanatory and in ./solve/solve_div2.py
+The script is pretty self-explanatory and in ./solve_div2.py
 
 # Flag
 
